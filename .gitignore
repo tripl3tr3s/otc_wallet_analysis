@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints (if you use Jupyter)
+.ipynb_checkpoints/
+
+# Optional: Large data files or logs (customize as needed)
+# data/
+# logs/
